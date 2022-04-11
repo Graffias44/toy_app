@@ -1,0 +1,15 @@
+current directory: /home/rod/study_code/toy_app/toy_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/home/rod/.rbenv/versions/2.6.3/bin/ruby -I /home/rod/.rbenv/versions/2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220411-3792-p5xzix.rb extconf.rb
+creating Makefile
+
+current directory: /home/rod/study_code/toy_app/toy_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /home/rod/study_code/toy_app/toy_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/rod/study_code/toy_app/toy_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20220411-3792-i8uii8
